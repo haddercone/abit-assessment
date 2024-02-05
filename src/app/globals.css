@@ -2,6 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+  font-family: "reckless-neue";
+  src: url("../../fonts/reckless-neue/RecklessNeue-Regular.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
 
 /* :root {
   --foreground-rgb: 0, 0, 0;
